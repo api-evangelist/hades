@@ -13,6 +13,17 @@ description: >-
   minerals. Hades is backed by HV Capital and Headline via a EUR 15M seed
   round. As a physical deep-tech extraction company, Hades publishes no public
   developer API, SDK, or MCP surface at this time.
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
